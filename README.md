@@ -15,7 +15,8 @@ O seu programa deverá cálcular corretamente os valores dos métodos da classe 
 3. Caso seja feita uma reserva igual ou maior que 10 dias, deverá ser concedido um desconto de 10% no valor da diária.
 
 
-![Diagrama de classe estacionamento](diagrama_classe_hotel.png)
+![diagrama_classe_hotel](https://github.com/MKawan/desafio-hospedagemHotel-csharp-DIO/assets/51447066/3f8babf6-3bbb-4519-bca0-7940f382dacd)
+
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
