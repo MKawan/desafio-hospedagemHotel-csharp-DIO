@@ -1,0 +1,14 @@
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\bin\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.exe
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\bin\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.deps.json
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\bin\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.runtimeconfig.json
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\bin\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.dll
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\bin\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.pdb
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.GeneratedMSBuildEditorConfig.editorconfig
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.AssemblyInfoInputs.cache
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.AssemblyInfo.cs
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.csproj.CoreCompileInputs.cache
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.dll
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\refint\desafio-hospedagemHotel-csharp-DIO.dll
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.pdb
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\desafio-hospedagemHotel-csharp-DIO.genruntimeconfig.cache
+E:\Cursos\Curso-Dev-DIO\formaao-c#\desafios\desafio-hospedagemHotel-csharp-DIO\obj\Debug\net8.0\ref\desafio-hospedagemHotel-csharp-DIO.dll
